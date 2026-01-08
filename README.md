@@ -29,3 +29,4 @@ The dataset contains 9,800 sales records with 18 features related to orders, cus
 - Sales variability is high at the daily level, making monthly aggregation more suitable for forecasting.
 - The strongest sales performance occurs in the later years of the dataset, particularly in 2019.
 - Time-based features such as year and month are relevant predictors for future sales forecasting models.
+- 
